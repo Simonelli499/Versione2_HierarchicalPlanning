@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e42d9c6d0c4b14260b87b942fc094a40
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - trianglePrefab: {instanceID: 0}
+  - squarePrefab: {instanceID: 0}
+  - circlePrefab: {instanceID: 0}
+  - rhombusPrefab: {instanceID: 0}
+  - audioManager: {instanceID: 0}
+  - checkmarkPrefab: {fileID: 546113786187198233, guid: c7ebfddf3d71c411fb0c1a01a1eb764b, type: 3}
+  - landmarkOnLegend: {instanceID: 0}
+  - landmarkOnGrid: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

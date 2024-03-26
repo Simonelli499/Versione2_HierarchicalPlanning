@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 74529a1d0f3104e2993750c66ae5aa89
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spriteRenderer: {instanceID: 0}
+  - coll: {instanceID: 0}
+  - checkmarkPrefab: {fileID: 546113786187198233, guid: c7ebfddf3d71c411fb0c1a01a1eb764b, type: 3}
+  - audioManager: {instanceID: 0}
+  - mapManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
